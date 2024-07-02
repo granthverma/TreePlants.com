@@ -3,6 +3,9 @@
 #### Overview
 **Tree Plants** is an e-commerce platform designed to facilitate the buying and selling of various plants online. This documentation outlines the technologies used, key functionalities, and deployment details of the project.
 
+![Alt text](../treeplants.png)
+
+
 #### Technologies Used
 - **Frontend:**
   - **React:** JavaScript library for building user interfaces.
